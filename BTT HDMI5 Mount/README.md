@@ -6,5 +6,3 @@ CAD Renders:
 ![CAD Render](https://github.com/BlindBadgerStudios/Voron_Stuff/blob/main/BTT%20HDMI5%20Mount/images/Mount.png)
 ![CAD Render with Z drives](https://github.com/BlindBadgerStudios/Voron_Stuff/blob/main/BTT%20HDMI5%20Mount/images/Mount-Zdrives.png)
 
-Remaining todo:
-- Final fitment testing and adjustments
